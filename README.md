@@ -1,7 +1,7 @@
 # pack-image
 
 Description. 
-The package package_name is used to:
+The package pack-image is used to:
 	Processing:
 		- Histrogram matching
 		- Structkural similarity
@@ -25,6 +25,6 @@ pip install packimage
 Paula Damasceno 
 
 ## License
-PS C:\Users\Paula\OneDrive\Área de Trabalho\package-image> 
+PS C:\Users\Paula\OneDrive\Área de Trabalho\pack-image-master
 
 
